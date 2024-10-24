@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+.headdiv{
+    background-color: rgb(21, 68, 68);
+    height: 80px;
+}
+
+.coursesbtn{
+    float: right;
+    margin-right: 90px;
+    padding: 10px 30px 10px 30px;
+    font-size: medium;
+    margin-top: 20px;
+    background-color: rgb(21, 68, 68);
+    color: white;
+}
+.homebtn{
+    margin-left: 1200px;
+    padding: 10px 30px 10px 30px;
+    font-size: medium;
+    margin-top: 20px;
+    background-color: rgb(21, 68, 68);
+    color: white;
+}
